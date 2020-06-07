@@ -1,0 +1,2 @@
+rootProject.name='EUIT_MAD_Class_002'
+include ':app'
